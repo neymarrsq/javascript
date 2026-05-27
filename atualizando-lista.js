@@ -1,4 +1,4 @@
-const nomes = ["João", "Ana", "Lara", "Marjorie", "Leo"]
+const nomes = ["João", "Ariele", "Lara", "Marjorie", "Leo"]
 
 nomes.splice(1, 2);
 nomes.push("Rodrigo");
