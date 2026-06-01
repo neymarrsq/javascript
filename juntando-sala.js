@@ -1,4 +1,6 @@
 const salaJS = ["Evandro", "Camis", "Mari"];
 const salaPython = ["Ju", "Leo", "Raquel"];
 
-salaJS.concat(salaPython)
+const salasUnificadas = salaJS.concat(salaPython)
+
+console.log(salasUnificadas);
