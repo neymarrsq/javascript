@@ -7,3 +7,4 @@ for (let nota of notas){
 }
 
 console.log(somaDasNotas);
+console.log(`A média das notas é ${media}.`);
